@@ -61,13 +61,6 @@ Design and build a line follower robot using an Arduino Uno and various componen
 - Further testing on curved paths.
 - Completing simple and complex circuit navigation.
 
-## Operation Guide
-
-### Running the Robot
-
-- [Instructions on how to operate the robot]
-- [Information on any specific configurations or adjustments]
-
 ## Performance Metrics
 
 - Time to complete the circuit: 20.7 seconds

@@ -28,7 +28,7 @@ Design and build a line follower robot using an Arduino Uno and various componen
 - Chassis (Self-made from cardboard)
 - Zip-ties
   <br/>
-  ![Placeholder for Robot Image](/setup.jpg)
+  ![Placeholder for Robot Image](setup-pic.jpg)
 
 ## Building Process
 
